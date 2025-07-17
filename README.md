@@ -4,11 +4,13 @@ This project automates the reconciliation of Amazon Payments and Settlement data
 
 
 # Input
-I use multer for take inputwhich is in data folder payment_data.csv and settlement_data.txt
+I use multer for take inputwhich is in data folder p.csv and s.txt
 
 # Output
 Response output is in output directory as well (output/reconciliation_data.csv)
 
+# Drive Link
+[https://drive.google.com/drive/folders/1jJs-5z0onE-HdP7fk9Pe5tFB1zImJiS_?usp=sharing]
 
 ---
 

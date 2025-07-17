@@ -1,0 +1,20 @@
+"Includes Amazon Marketplace, Fulfillment by Amazon (FBA), and Amazon Webstore transactions",,,,,,,,,,,,,,,,,,,,,,,,,,
+"All amounts in USD, unless specified",,,,,,,,,,,,,,,,,,,,,,,,,,
+Definitions:,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Sales tax collected: Includes sales tax collected from buyers for product sales, shipping, and gift wrap.",,,,,,,,,,,,,,,,,,,,,,,,,,
+Selling fees: Includes variable closing fees and referral fees.,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Other transaction fees: Includes shipping chargebacks, shipping holdbacks, per-item fees  and sales tax collection fees.",,,,,,,,,,,,,,,,,,,,,,,,,,
+"Other: Includes non-order transaction amounts. For more details, see the ""Type"" and ""Description"" columns for each order ID.",,,,,,,,,,,,,,,,,,,,,,,,,,
+date/time,settlement id,type,order id,sku,description,quantity,marketplace,account type,fulfillment,tax collection model,product sales,product sales tax,shipping credits,shipping credits tax,gift wrap credits,giftwrap credits tax,Regulatory Fee,Tax On Regulatory Fee,promotional rebates,promotional rebates tax,marketplace withheld tax,selling fees,fba fees,other transaction fees,other,total
+"Jun 8, 2025 10:23:05 PM PDT",18174059732,Order,1211455071067537800,13Z2Q8JWG710,,1,amazon.com,Standard Orders,Amazon,MarketplaceFacilitator,14.9,1.04,0,0,0,0,0,0,0,0,-1.04,-2.24,-4.85,0,0,7.81
+"Jun 8, 2025 10:23:08 PM PDT",18174059732,Order,1211319916047721000,13ZYCLJIDCFI,,1,amazon.com,Standard Orders,Amazon,MarketplaceFacilitator,17,1.57,0,0,0,0,0,0,0,0,-1.57,-2.55,-4.04,0,0,10.41
+"Jun 8, 2025 10:23:08 PM PDT",18174059732,Order,1211341418926849000,13G1CAMYVF5L,,1,amazon.com,Standard Orders,Amazon,MarketplaceFacilitator,19.9,1.74,1.49,0,0,0,0,0,-1.49,0,-1.74,-2.99,-4.15,0,0,12.76
+"Jun 8, 2025 10:23:09 PM PDT",18174059732,Order,1211206894682830600,13ZYCLJIDCFI,,1,amazon.com,Standard Orders,Amazon,MarketplaceFacilitator,17,1.4,1.5,0,0,0,0,0,-1.5,0,-1.4,-2.55,-4.04,0,0,10.41
+"Jun 8, 2025 10:23:10 PM PDT",18174059732,Order,1211173448570054600,138809982769941,,1,amazon.com,Standard Orders,Amazon,MarketplaceFacilitator,15.84,0,0,0,0,0,0,0,0,0,0,-2.38,-4.99,0,0,8.47
+"Jun 8, 2025 10:23:10 PM PDT",18174059732,Order,1211324832123231400,13Z2Q8JWG710,,1,amazon.com,Standard Orders,Amazon,MarketplaceFacilitator,14.9,0.89,0,0,0,0,0,0,0,0,-0.89,-2.24,-4.85,0,0,7.81
+"Jun 8, 2025 10:23:14 PM PDT",18174059732,Order,1211443359366259400,13MedicubeJellyBrush,,1,amazon.com,Standard Orders,Amazon,MarketplaceFacilitator,6.36,0.38,0,0,0,0,0,0,0,0,-0.38,-0.51,-2.29,0,0,3.56
+"Jun 8, 2025 10:23:18 PM PDT",18174059732,Order,1211342071702152200,13Z2Q8JWG710,,1,amazon.com,Standard Orders,Amazon,MarketplaceFacilitator,14.9,0.89,0,0,0,0,0,0,0,0,-0.89,-2.24,-4.85,0,0,7.81
+"Jun 8, 2025 10:23:18 PM PDT",18174059732,Order,1211162169734095400,13OWXX6LM7GW,,1,amazon.com,Standard Orders,Amazon,MarketplaceFacilitator,15.84,1.25,0,0,0,0,0,0,0,0,-1.25,-2.38,-3.9,0,0,9.56
+"Jun 8, 2025 10:23:19 PM PDT",18174059732,Order,1211397397571528200,13Z2Q8JWG710,,1,amazon.com,Standard Orders,Amazon,MarketplaceFacilitator,14.9,1.56,0.75,0,0,0,0,0,-0.75,0,-1.56,-2.24,-4.85,0,0,7.81
+"Jun 8, 2025 10:23:19 PM PDT",18174059732,Order,1211104557174899400,13Z2Q8JWG710,,1,amazon.com,Standard Orders,Amazon,MarketplaceFacilitator,18.9,1.51,0,0,0,0,0,0,-1.89,0,-1.51,-2.55,-4.85,0,0,9.61
+"Jun 8, 2025 10:23:19 PM PDT",18174059732,Order,1211407444680842600,13O80DZITJO8,,1,amazon.com,Standard Orders,Amazon,MarketplaceFacilitator,15.22,1.46,1.72,0,0,0,0,0,0,0,-1.46,-2.28,-5.62,0,0,9.04

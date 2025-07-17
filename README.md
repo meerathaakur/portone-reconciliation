@@ -2,6 +2,14 @@
 
 This project automates the reconciliation of Amazon Payments and Settlement data. It parses raw CSV and TXT files, stores them in a PostgreSQL database, and generates reconciliation reports comparing total amounts per order.
 
+
+# Input
+I use multer for take inputwhich is in data folder payment_data.csv and settlement_data.txt
+
+# Output
+Response output is in output directory as well (output/reconciliation_data.csv)
+
+
 ---
 
 ## 📁 Table of Contents
